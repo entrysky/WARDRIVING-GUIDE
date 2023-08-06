@@ -15,14 +15,14 @@ Search Engine Used By Hackers
 
 WARDRIVING GUIDE
 
-Wardriving is the act of searching for Wi-Fiwireless networks, usually from a moving vehicle, using a laptop or smartphone. Software for wardriving is freely available on the internet.
+Wardriving is the act of searching for Wi-Fi wireless networks, usually from a moving vehicle, using a laptop or smartphone. Software for wardriving is freely available on the internet.
 
 Wardriving might seem like a thing of the past. However, security specialists still use it to research Wi-Fi security. Data accumulated in such a manner is valuable and helps detect common mistakes and drawbacks. It also helps understand how open Wi-Fi networks protect their users (or don't).
 
 🍏How wardriving can affect you🍏
  Wardriving couldenable hackers to gain access to any device connected to your home network. Hackers that access your network through wardriving may be able to engage in malicious activities like installing malware on your home computer and other connected devices.
 
-❤️‍🔥Safety Guide By IMK❤️‍🔥
+❤️‍🔥Safety Guide❤️‍🔥
 Stay safe when using a public access point or an open wifi network
 
 🥶Use a firewall.
