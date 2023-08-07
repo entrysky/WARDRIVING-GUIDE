@@ -42,3 +42,7 @@ https://play.google.com/store/apps/details?id=net.wigle.wigleandroid
 🍎 Watching Videos Demo 🍏
 
 https://github.com/entrysky/WARDRIVING-GUIDE/issues/1#issue-1838280033
+
+🍎 Wireless Pentesting Cheat Sheet 🍏
+
+https://github.com/entrysky/WARDRIVING-GUIDE/issues/2#issue-1838511167
